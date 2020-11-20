@@ -1,5 +1,5 @@
-
-    <?php
+ 
+ <?php
    /*$nombre="catalina";
     $nombre2="pedrito";
     $nombre3="doña nidia";
